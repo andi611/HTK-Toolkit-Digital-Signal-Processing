@@ -3,13 +3,13 @@
 
 
 ## Implementation
-* [Baseline model and script](http://speech.ee.ntu.edu.tw/homework/DSP_HW2-1/dsp_hw2-1.zip)
+* Modified from: [Baseline model and script](http://speech.ee.ntu.edu.tw/homework/DSP_HW2-1/dsp_hw2-1.zip)
 * In this work the following files are modified:
     - **lib/proto**: increase state number
     - **lib/mix2_10.hed**: increase number of Gaussian mixtures
     - **03_training.sh**: increase training iteration  
 * Implementation details are specified in "report.pdf"
-* An Accuracy of **97.76%** is achieved with this implementation.
+* An testing accuracy of **97.76%** is achieved with this implementation.
 * ![](https://github.com/andi611/DSP_HTK_Toolkit/blob/master/image/best.png)
 
  
