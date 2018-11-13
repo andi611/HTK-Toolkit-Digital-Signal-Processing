@@ -12,7 +12,7 @@
 * An Accuracy of **97.76%** is achieved with this implementation.
 * ![](https://github.com/andi611/DSP_HTK_Toolkit/blob/master/image/best.png)
 
-
+ 
 ## File Description
 ```
 .
