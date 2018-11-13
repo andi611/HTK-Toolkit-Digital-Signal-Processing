@@ -1,6 +1,6 @@
 # Digital Signal Processing: HMM Training and Testing with the HTK toolkit
 * Construct a digital monophone recognizer with the HTK toolkit.
-* See "problem_descriptiom.pdf" for more details.
+* See "problem_description.pdf" for more details.
 
 
 ## Implementation
