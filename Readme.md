@@ -4,10 +4,10 @@
 
 ## Implementation
 * [Baseline model and script](http://speech.ee.ntu.edu.tw/homework/DSP_HW2-1/dsp_hw2-1.zip)
-* Modified files in this work:
-    - lib/proto: increase state number
-    - lib/mix2_10.hed: increase number of Gaussian mixtures
-    - 03_training.sh: increase training iteration  
+* In this work the following files are modified:
+    - **lib/proto**: increase state number
+    - **lib/mix2_10.hed**: increase number of Gaussian mixtures
+    - **03_training.sh**: increase training iteration  
 * Implementation details are specified in "report.pdf"
 * An Accuracy of **97.76%** is achieved with this implementation.
 * ![](https://github.com/andi611/DSP_HTK_Toolkit/blob/master/image/best.png)
@@ -30,10 +30,11 @@
 ```
 $ wget http://speech.ee.ntu.edu.tw/homework/DSP_HW2-1/htk341_debian_x86_64.tar.gz
 $ tar zxvf htk341_debian_x86_64.tar.gz
+Place the unzip .tar folder under the same directory as ./src
 ```
 * Or clone this repository:
 ```
-git clone git@github.com:andi611/DSP_HTK_Toolkit.git
+$ git clone git@github.com:andi611/DSP_HTK_Toolkit.git
 ```
 * Set path for the HTK tool with script:
 ```
