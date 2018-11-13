@@ -1,12 +1,11 @@
 # Digital Signal Processing: HMM Training and Testing with the HTK toolkit
-## Result
 * An Accuracy of **97.76%** is achieved in this work.
 * Implementation details are specified in "report.pdf"
 ![](https://github.com/andi611/DSP_HTK_Toolkit/blob/master/image/best.png)
 
 
 ## Toolkit
-* **< Hidden Markov Model Toolkit (HTK 3.4.1) >** -> [Donwload](http://speech.ee.ntu.edu.tw/homework/DSP_HW2-1/htk341_debian_x86_64.tar.gz)
+* **[< Hidden Markov Model Toolkit (HTK 3.4.1) >](http://speech.ee.ntu.edu.tw/homework/DSP_HW2-1/htk341_debian_x86_64.tar.gz)**
 * See "problem_descriptiom.pdf pg.28" for more detail.
 
 
