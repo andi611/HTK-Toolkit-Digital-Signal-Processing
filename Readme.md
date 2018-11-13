@@ -9,6 +9,7 @@
     - **lib/proto**: increase state number
     - **lib/mix2_10.hed**: increase number of Gaussian mixtures
     - **03_training.sh**: increase training iteration  
+    - **run.sh**: an additional script that runs the whole training and testing pipeline directly
 * Implementation details are specified in "**[report.pdf](https://github.com/andi611/DSP_HTK_Toolkit/blob/master/report.pdf)**".
 * An testing accuracy of **97.76%** is achieved with this implementation.
 * ![](https://github.com/andi611/DSP_HTK_Toolkit/blob/master/image/best.png)
