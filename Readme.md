@@ -1,0 +1,37 @@
+# Digital Signal Processing: HMM Training and Testing with the HTK toolkit
+## Result
+* An Accuracy of **97.76%** is achieved in this work.
+![]()
+
+
+## Toolkit
+* **< Hidden Markov Model Toolkit (HTK 3.4.1) >** -> [Donwload](http://speech.ee.ntu.edu.tw/homework/DSP_HW2-1/htk341_debian_x86_64.tar.gz)
+
+## File Description
+```
+.
+├── htk341_debian_x86_64/ ...   Compiled Binary Files of the HTK toolkit
+├── src/ ...                    scripts to run the HTK toolkit
+├── image/ ...                  Results
+├── problem_description.pdf     Work Spec
+├── report.pdf                  Report
+└── Readme.md                   This File
+```
+
+## Usage
+
+### Run the training and testing pipeline automatically:
+```
+└── src/
+    └── bash run.sh
+```
+
+### Run each script separately:
+```
+└── src/
+    ├── bash 00_clean_all.sh
+    ├── bash 01_run_HCopy.sh
+    ├── bash 02_run_HCompV.sh
+    ├── bash 03_training.sh
+    └── bash 04_testing.sh
+```
